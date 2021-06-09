@@ -1,0 +1,10 @@
+/.metadata/
+RemoteSystemsTempFiles
+JavaSE/.idea/*
+geotools/.idea
+springboot/.idea
+spring/.idea
+spring/lib
+.idea
+JavaSE/.idea
+geotools/data/*

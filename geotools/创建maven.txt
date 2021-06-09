@@ -1,0 +1,3 @@
+解决idea创建maven quickstart时，没有src 目录的问题：
+进入到IDEA的 settings：
+搜索maven，找到Runner，在VM Options输入：-DarchetypeCatalog=internal
